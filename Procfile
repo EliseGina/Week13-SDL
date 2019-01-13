@@ -1,1 +1,1 @@
-web: gunicorn Week13-SDL:app
+web: gunicorn app:app
